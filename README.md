@@ -1,0 +1,2 @@
+# bash-cfg
+Bash configuration
